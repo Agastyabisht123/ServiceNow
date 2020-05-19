@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="emp_phone" label="Emp Phone" language="en" table="x_491732_hrservic_emp_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>emp_phone</element>
+            <help/>
+            <hint/>
+            <label>Emp Phone</label>
+            <language>en</language>
+            <name>x_491732_hrservic_emp_table</name>
+            <plural>Emp Phones</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 09:48:18</sys_created_on>
+            <sys_id>dbd3942a2f7010109d53a55df699b6ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Emp Phone</sys_name>
+            <sys_package display_value="HR service App" source="x_491732_hrservic">b54254a62f7010109d53a55df699b6fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HR service App">b54254a62f7010109d53a55df699b6fa</sys_scope>
+            <sys_update_name>sys_documentation_x_491732_hrservic_emp_table_emp_phone_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 09:48:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
